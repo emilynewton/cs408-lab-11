@@ -1,4 +1,38 @@
 h1{
-  border-color: #d3e644;
+  border-color: #914061;
   border-style: dashed;
+  color: #914061; 
+  font-family: 'GFS Didot';
+}
+
+body {
+  background-color: #c9819f; 
+  color: #914061; 
+  text-align: center; 
+  font-family: 'GFS Didot';
+}
+
+table {
+  background-color: #ffb5d3; 
+  border-color: #914061;
+  margin-left: auto; 
+  margin-right: auto; 
+  font-family: 'GFS Didot'; 
+}
+
+th {
+  background-color: #e39fbb; 
+}
+
+button {
+  background-color: #ffb5d3; 
+  color: #914061; 
+  border: 2px solid; 
+  font-family: 'GFS Didot'; 
+}
+
+div {
+  border: 2px solid; 
+  width: 35%; 
+  margin: auto; 
 }
